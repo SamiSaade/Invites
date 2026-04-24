@@ -7,8 +7,6 @@ from pypdf import PdfWriter, PdfReader
 from reportlab.rl_config import defaultPageSize
 from tqdm import tqdm
 
-
-# root = "/Users/samisaade/dev/Invites/InvitationTemplate"
 save_path = "reserved"
 
 
