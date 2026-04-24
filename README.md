@@ -1,6 +1,6 @@
 ### Print names in the middle of a pdf invite template rejecting the lunacy of word
 
-Simply made to print a large amount of names from a csv of invites onto the middle of a pdf invite template
+Simply made to print a large amount of names from a csv of invites onto the middle of a pdf invite template to escape Miscrosoft Word 
 
 Made during the planning of the Peace and Prosperity Trust X ADMAF Festival in Kensington Palace planning in June 2024
 
